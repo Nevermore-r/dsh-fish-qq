@@ -1,0 +1,4 @@
+node_modules/
+.dsh-fish-qq/
+*.log
+.DS_Store

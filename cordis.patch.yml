@@ -1,0 +1,4 @@
+# dsh-fish-qq bundle patch
+- insert:
+    - id: fish-qq
+      name: 'dsh-fish-qq'
