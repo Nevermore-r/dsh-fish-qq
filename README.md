@@ -53,6 +53,8 @@ dsh plugin --profile <你的profile> add ./dsh-fish-qq
 | `hotMin` | 一小时内多少条算热，默认 4 |
 | `interestMin` | 兴趣分达到多少才私信你，默认 4 |
 | `quietWhenOwnerActiveMin` | 你多少分钟内有发言就跳过巡检，默认 15 |
+| `workWindowEnabled` | 只在工作时间窗口内巡检和私信，默认开 |
+| `workStart` / `workEnd` | 工作时间窗口（本地时间，支持跨零点），默认 `07:30`–`23:30`；窗口外保持安静，只有你 @ 她才会应 |
 
 ## 数据在哪
 
